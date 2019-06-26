@@ -16,13 +16,13 @@ let smurfs = [
   {
     name: 'Austen',
     age: 30,
-    height: '105cm',
+    height: '70',
     id: 0
   },
   {
     name: 'Dustin',
     age: 29,
-    height: '115cm',
+    height: '72',
     id: 1
   }
 ];
